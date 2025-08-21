@@ -1,12 +1,12 @@
-# ⚽ World Cup Data Engineering Project  
+#  World Cup Data Engineering Project  
 
-Welcome to the **World Cup Data Engineering Project**! 🌍🏆  
+Welcome to the **World Cup Data Engineering Project**! 
 This project focuses on **data cleaning, validation, and transformation** of FIFA World Cup match data, using Python and Google Colab.  
 The goal is to turn raw historical match records into a **clean, analytics-ready dataset** for insights and reporting.  
 
 ---
 
-## 🏗️ Data Pipeline (Workflow)  
+##  Data Pipeline (Workflow)  
 
 The workflow for this project follows a typical **data engineering process**:
 
@@ -25,17 +25,17 @@ The workflow for this project follows a typical **data engineering process**:
 
 ---
 
-## 📖 Project Overview  
+##  Project Overview  
 
 This project demonstrates:  
 
-- ✅ **Data Cleaning**: Remove duplicates, handle missing data, validate fields.  
-- ✅ **Exploratory Data Analysis (EDA)**: Explore unique stages, winners, and team performances.  
-- ✅ **Data Transformation**: Aggregate stats (goals, attendance, matches, teams).  
-- ✅ **Business Rules Implementation**: Champions, runners-up, and placements per year.  
-- ✅ **Data Export**: Final clean dataset ready for BI tools, dashboards, or further analysis.  
+- **Data Cleaning**: Remove duplicates, handle missing data, validate fields.  
+- **Exploratory Data Analysis (EDA)**: Explore unique stages, winners, and team performances.  
+-  **Data Transformation**: Aggregate stats (goals, attendance, matches, teams).  
+-  **Business Rules Implementation**: Champions, runners-up, and placements per year.  
+-  **Data Export**: Final clean dataset ready for BI tools, dashboards, or further analysis.  
 
-🎯 **Skills demonstrated**:  
+ **Skills demonstrated**:  
 - Python (Pandas, Matplotlib, Plotly)  
 - Data Engineering (cleaning, validation, transformation)  
 - Feature Engineering  
@@ -43,7 +43,7 @@ This project demonstrates:
 
 ---
 
-## 📂 Repository Structure  
+##  Repository Structure  
 
 ```
 worldcup-data-engineering/
@@ -68,7 +68,7 @@ worldcup-data-engineering/
 
 ---
 
-## 🚀 How to Run  
+##  How to Run  
 
 1. **Clone the repository**  
    ```bash
@@ -93,7 +93,7 @@ worldcup-data-engineering/
 
 ---
 
-## 📊 Results  
+##  Results  
 
 The final dataset `WorldCup.csv` contains:  
 
@@ -106,11 +106,11 @@ The final dataset `WorldCup.csv` contains:
 - Number of matches played  
 - Total attendance  
 
-📌 Example insight: "Which country won the most World Cups?" or "How attendance evolved over time."  
+ Example insight: "Which country won the most World Cups?" or "How attendance evolved over time."  
 
 ---
 
-## 🛠️ Technologies  
+##  Technologies  
 
 - **Python**  
 - **Pandas**  
@@ -119,13 +119,13 @@ The final dataset `WorldCup.csv` contains:
 
 ---
 
-## 🛡️ License  
+##  License  
 
 This project is licensed under the [MIT License](LICENSE).  
 
 ---
 
-## 🌟 About  
+##  About  
 
 This project was developed as a **data engineering portfolio project** to showcase:  
 - Data cleaning and transformation  
